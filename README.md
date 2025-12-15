@@ -39,9 +39,9 @@ To run the application, you can open the project in Android Studio and run the `
 
 ## Screenshots
 
-`![Call permission](screenshots/Screenshot_20251209_163130.png)`
-`![Location permission](screenshots/Screenshot_20251209_163230.png)`
-`![Login](screenshots/Screenshot_20251215_111347.png)`
-`![Sign up](screenshots/Screenshot_20251215_111421.png)`
-`![Map view](screenshots/Screenshot_20251215_111757.png)`
-`![Close session dialog](screenshots/Screenshot_20251215_111823.png)`
+![Call permission](screenshots/Screenshot_20251209_163130.webp)
+![Location permission](screenshots/Screenshot_20251209_163230.webp)
+![Login](screenshots/Screenshot_20251215_111347.webp)
+![Sign up](screenshots/Screenshot_20251215_111421.webp)
+![Map view](screenshots/Screenshot_20251215_111757.webp)
+![Close session dialog](screenshots/Screenshot_20251215_111823.webp)
